@@ -21,7 +21,7 @@ TestCase : Wishlist_Validation_Using_Login.robot
 - Login using existing credentials 
 - After successful Login , goto Wishlist and delete the item
 
-Enchancements to be done :
+Enhancements to be done :
 - Sleep can be replaced with a function, which wait for page to load before proceeding
 - Couple of Absolute Xpaths can be replaced with relative xpaths to make the script more reliable 
 - Validation on Login details( such as if password/ user name is wrong, giving an option to reset the same)
